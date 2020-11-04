@@ -623,7 +623,7 @@ export default {
         });
     },
     saveSubUrl() {
-      if (this.form.sourceSubUrl !== '') {
+      if (this.form.sourceSubUrl !== 'sub.hk318.com') {
         this.setLocalStorageItem('sourceSubUrl', this.form.sourceSubUrl)
       }
     },
