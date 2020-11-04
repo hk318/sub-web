@@ -262,12 +262,12 @@ export default {
               {
                 label: "No-Urltest",
                 value:
-                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/universal/no-urltest.ini"
+                  "https://sub.hk318.com/Rules/RemoteConfig/universal/no-urltest.ini"
               },
               {
                 label: "Urltest",
                 value:
-                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/universal/urltest.ini"
+                  "https://sub.hk318.com/Rules/RemoteConfig/universal/urltest.ini"
               }
             ]
           },
@@ -277,7 +277,7 @@ export default {
               {
                 label: "Maying",
                 value:
-                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/maying.ini"
+                  "https://sub.hk318.com/Rules/RemoteConfig/customized/maying.ini"
               },
               {
                 label: "rixCloud",
